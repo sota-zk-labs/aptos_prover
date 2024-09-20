@@ -1,0 +1,2 @@
+[workspace]
+members = [ "prover","stone-cli"]
